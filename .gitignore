@@ -1,0 +1,6 @@
+node_modules
+yarn.lock
+cypress/screenshots
+cypress/videos
+package-lock.json
+package.json
